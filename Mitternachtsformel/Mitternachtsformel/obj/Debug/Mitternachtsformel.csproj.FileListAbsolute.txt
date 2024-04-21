@@ -1,0 +1,7 @@
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\bin\Debug\Mitternachtsformel.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\bin\Debug\Mitternachtsformel.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\bin\Debug\Mitternachtsformel.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\obj\Debug\Mitternachtsformel.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\obj\Debug\Mitternachtsformel.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\obj\Debug\Mitternachtsformel.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Mathematik\Mitternachtsformel\Mitternachtsformel\obj\Debug\Mitternachtsformel.pdb
